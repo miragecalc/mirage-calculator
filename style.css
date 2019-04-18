@@ -137,19 +137,19 @@ body
     text-align: left;
     font-size: 13px;
 
-    color: #ea4b4b;
+    color: #ed7b7b;
     background-color: #f22424;
     transition-duration: 0.5s;
 }
 
 .disclaimer:hover
 {
-    opacity: 0.1;
+    opacity: 0.8;
 }
 
 .disclaimer a
 {
-    color: #ed0b0b;
+    color: #ed7b7b;
     text-decoration: none;
 }
 
