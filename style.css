@@ -138,13 +138,13 @@ body
     font-size: 13px;
 
     color: #ea4b4b;
-    background-color: #c41515;
+    background-color: #f22424;
     transition-duration: 0.5s;
 }
 
 .disclaimer:hover
 {
-    opacity: 0.2;
+    opacity: 0.1;
 }
 
 .disclaimer a
