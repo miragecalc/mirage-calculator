@@ -1,7 +1,10 @@
 body
 {
     margin: 0 auto;
-    background: url(https://i.imgur.com/XNdXXsW.jpg); background-size: 100%;
+    background: url(https://i.imgur.com/XNdXXsW.jpg); 
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
     height: 100vh;
     display: flex;
     flex-flow: column;
